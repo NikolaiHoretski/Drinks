@@ -14,6 +14,7 @@ public class Test {
         cup3.drink.typeOfDrink();
         for (KindOfJuice kindOfJuice : KindOfJuice.values()) {
             System.out.println(kindOfJuice);
+
         }
     }
 }
